@@ -126,3 +126,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: FRX
 Name: Xasthur
 
+Package: com.yourcompany.xasthur
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm64
+Maintainer: FRX
+Installed-Size: 328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.xasthur_0.0.1-9+debug_iphoneos-arm64.deb
+Size: 39456
+MD5sum: 5b000951548a042d6253ebdcd4eac431
+SHA1: 2b5ba8ae3fe762fb4a73e260c3673fbd17443991
+SHA256: f2500298747ff2f28576258e727b7085ed5c1e35f17eb0bec57d5b886cfc269e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: FRX
+Name: Xasthur
+
